@@ -6,7 +6,9 @@
 
 A curated list that would help all people who are interested in the transformation of the legal profession and industry, regardless of stage on their journey: beginners, more advanced innovators, professionals, researchers.
 
-![Logo](/images/unsplashmainimage.png)
+Find more information at the LLI project webpage on [Meta-Lex: The Ultimate Legal Transformation Resource Library](https://www.liquid-legal-institute.com/workinggroups/meta-lex-the-ultimate-legal-transformation-resource-library/)
+
+![Logo](unsplashmainimage.png)
 Photo by Jason Leung on Unsplash
 
 _Please read the [contribution guidelines](contributing.md) before contributing. Please add a resource by raising a [pull request](https://github.com/Liquid-Legal-Institute/meta-lex/pulls). We also seek for discussion and proposal of new ideas (including additional content sections) as [issues](https://github.com/Liquid-Legal-Institute/meta-lex/issues)._
