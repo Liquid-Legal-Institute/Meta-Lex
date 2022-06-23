@@ -3,7 +3,7 @@
 [![LTA](https://img.shields.io/badge/CLP-Community-orange)](https://github.com/Liquid-Legal-Institute/Common-Legal-Platform)
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-A curated list that would help all people who are interested in the transformation / innovation of the legal profession and industry, regardless of stage on their journey: beginners, more advanced innovators, professionals, researchers.
+A curated list to help all people who are interested in the transformation / innovation of the legal profession and industry, regardless of stage on their journey: beginners, more advanced innovators, professionals, researchers.
 
 Find more information at the LLI project webpage on [Meta-Lex: The Ultimate Legal Transformation Resource Library](https://www.liquid-legal-institute.com/workinggroups/meta-lex-the-ultimate-legal-transformation-resource-library/)
 
@@ -25,7 +25,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Legal Processes and Workflows](#legal-processes-and-workflows)
 * [Knowledge and Document Management](#knowledge-and-document-management)
 * [Artificial Intelligence and Legal Text Analytics](#artificial-intelligence-and-legal-text-analytics)
-* [Computational Law, Blockchain / DLL and Smart(er) Contracts](#computational-law-blockchain--dll-and-smarter-contracts)
+* [Computational Law, Law as Neural Network, Blockchain / DLL and Smart(er) Contracts](#computational-law-blockchain--dll-and-smarter-contracts)
 * [Web 3.0 / Metaverse and other Emerging Technologies](#web-30--metaverse-and-other-emerging-technologies)
 * [Credits](#credits)
 
