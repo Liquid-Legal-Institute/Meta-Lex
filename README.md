@@ -1,5 +1,5 @@
 # Meta-Lex: The Ultimate Legal Transformation Resource Library
-[![LTA](https://img.shields.io/badge/CLP-Ecosystem-blue)](https://github.com/Liquid-Legal-Institute/Common-Legal-Platform)
+[![LTA](https://img.shields.io/static/v1?label=LLI&message=Resources&color=FE5258)](https://www.liquid-legal-institute.com/workinggroups/meta-lex-the-ultimate-legal-transformation-resource-library/)
 [![LTA](https://img.shields.io/badge/CLP-Community-orange)](https://github.com/Liquid-Legal-Institute/Common-Legal-Platform)
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
