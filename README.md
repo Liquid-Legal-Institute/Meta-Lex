@@ -1,10 +1,9 @@
 # Meta-Lex: The Ultimate Legal Transformation Resource Library
 [![LTA](https://img.shields.io/badge/CLP-Ecosystem-blue)](https://github.com/Liquid-Legal-Institute/Common-Legal-Platform)
 [![LTA](https://img.shields.io/badge/CLP-Community-orange)](https://github.com/Liquid-Legal-Institute/Common-Legal-Platform)
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-A curated list that would help all people who are interested in the transformation of the legal profession and industry, regardless of stage on their journey: beginners, more advanced innovators, professionals, researchers.
+A curated list that would help all people who are interested in the transformation / innovation of the legal profession and industry, regardless of stage on their journey: beginners, more advanced innovators, professionals, researchers.
 
 Find more information at the LLI project webpage on [Meta-Lex: The Ultimate Legal Transformation Resource Library](https://www.liquid-legal-institute.com/workinggroups/meta-lex-the-ultimate-legal-transformation-resource-library/)
 
