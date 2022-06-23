@@ -41,7 +41,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Legal Design and Innovation
 [Back to Top](#contents)
 
-- The [Legal Design Book ...](www.google.com) Excellent introduction to ...
+- The [Legal Design Book ...](https://www.google.com) Excellent introduction to ...
 
 ## Legal Operations - General
 [Back to Top](#contents)
