@@ -15,7 +15,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Contents
 
-* [Introduction to Legal Transformation](#introduction-to-legal-transformation)
+* [Introduction to Legal Transformation - A Profession and Industry in Need of Change](#introduction-to-legal-transformation)
 * [Legal Business Development](#legal-business-development)
 * [Humanization, Diversity and Well-being](#humanization-diversity-and-well-being)
 * [Legal Design and Innovation](#legal-design-and-innovation)
