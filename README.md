@@ -41,7 +41,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Legal Design and Innovation
 [Back to Top](#contents)
 
-- The [Legal Design Book ...](https://www.google.com) Excellent introduction to ...
+- Book: [The Legal Design Book: Doing Law In The 21st Century](https://legaldesign-book.com). Astrid Kohlmeier (LLI Co-founder and Board Member) and Meera Klemola, July 2021.  Thought-provoking (very) primer on adapting and applying to legal services the human-centric design thinking ethos and process that are fundamental to so many industries, products and services. EN and DE (Wolters Kluwer) versions. E-book (EN) available (May 2022). Two thoughtful reviews in [Legal Business World](https://www.legalbusinessworld.com/post/exceeds-its-ambitious-title-a-consequential-work) and [Design Research Society - News](https://www.designresearchsociety.org/articles/book-review-the-legal-design-book-doing-law-in-the-21st-century-by-meera-klemola-and-astrid-kohlmeier).
 
 ## Legal Operations - General
 [Back to Top](#contents)
