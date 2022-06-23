@@ -16,6 +16,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Contents
 
 * [Introduction to Legal Transformation - A Profession and Industry in Need of Change](#introduction-to-legal-transformation)
+- Book: Tomorrow’s Lawyers: An Introduction to Your Future, 2nd ed. [Prof. Richard Susskind](https://www.susskind.com), OBE FRSE RSA (Oxford, Strathclyde, Gresham), Oxford Univ. Press, 2016. Prof. Susskind is IT Advisor to Lord Chief Justice of England & Wales, President of the Society of Computers & Law and the leading, most cited commentator on future of legal profession.  Very powerful, easy to read critique of traditional law firm, law school and bar association orthodoxy in US and UK. Applicable to other legal systems and cultures; widely translated. Iconoclastic, thought-provoking, yet hopeful.
+
 * [Legal Business Development](#legal-business-development)
 * [Humanization, Diversity and Well-being](#humanization-diversity-and-well-being)
 * [Legal Design and Innovation](#legal-design-and-innovation)
