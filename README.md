@@ -8,8 +8,9 @@ A curated list that would help all people who are interested in the transformati
 
 Find more information at the LLI project webpage on [Meta-Lex: The Ultimate Legal Transformation Resource Library](https://www.liquid-legal-institute.com/workinggroups/meta-lex-the-ultimate-legal-transformation-resource-library/)
 
-![Logo](unsplashimage_by_jason_leung.jpg)
-Photo by Jason Leung on Unsplash
+<p align="center">
+  <img src="LLI%20Meta-Lex-640w-2.jpg">
+</p>
 
 _Please read the [contribution guidelines](contributing.md) before contributing. Please add a resource by raising a [pull request](https://github.com/Liquid-Legal-Institute/meta-lex/pulls). We also seek for discussion and proposal of new ideas (including additional content sections) as [issues](https://github.com/Liquid-Legal-Institute/meta-lex/issues)._
 
