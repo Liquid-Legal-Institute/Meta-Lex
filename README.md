@@ -49,6 +49,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 - Book (Compendium): Liquid Legal: Humanization & the Law - A Call to Action in the Digital Age (Kai Jacob, Dierk Schindler, Roger Strathausen, ed.), Springer, expected Sept. 2022). [Insert description; same editors as LL1 and LL2?]
 
+- Papers: [LLI Lawyer Well-Being Project - The Silent Pandemic](https://www.liquid-legal-institute.com/workinggroups/lawyer-wellbeing) (Call to Action and Survey Results); [Whitepaper: Lawyer Well-Being | Personal Health of Legal Professionals in Times of Disruption](https://www.liquid-legal-institute.com/wp-content/uploads/2022/05/LLI_Lawyer_Wellbeing_Whitepaper_E-Book.pdf). [Add: link to recording of 23 June 2022 Liquid Experience call; LLI Awards?]
+
 ## Legal Design and Innovation
 [Back to Top](#contents)
 
