@@ -16,6 +16,15 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Contents
 
 * [Introduction to Legal Transformation - A Profession and Industry in Need of Change](#introduction-to-legal-transformation)
+
+- Book: [Tomorrow’s Lawyers: An Introduction to Your Future, 2nd ed.](https://www.amazon.co.uk/dp/0198796633/ref=sr_1_2?ie=UTF8&qid=1496314861&sr=8-2&keywords=susskind) Prof. [Richard Susskind](https://www.susskind.com), OBE FRSE RSA (Oxford, Strathclyde, Gresham), Oxford Univ. Press, 2016. Prof. Susskind is IT Advisor to Lord Chief Justice of England & Wales, President of the Society of Computers & Law and the leading, most cited commentator on future of legal profession.  Very powerful, easy to read critique of traditional law firm, law school and bar association orthodoxy in US and UK. Applicable to other legal systems and cultures; widely translated. Iconoclastic, thought-provoking, yet hopeful.
+
+- Book: [The Future of the Professions: How Technology Will Transform the World of Human Experts](https://www.amazon.co.uk/Future-Professions-Technology-Transform-Experts-dp-0198841892/dp/0198841892/ref=dp_ob_title_bk), Profs. [Richard Susskind](https://www.susskind.com) and [Daniel Susskind](https://www.danielsusskind.com), Oxford Univ. Press, 2016; updated ed. April 2022.  Exactly as the title says; highly acclaimed work.  Slower, harder read than Tomorrow’s Lawyers, but time well spent.  2022 edition is updated for changes over past 6 years, included as accelerated by Covid. Tip: If you have read the original edition, purchase the Kindle version (USD7.99) for the outstanding 2002 update.
+
+- Book (Compendium): [Liquid Legal: Transforming Legal into a Business Savvy, Information Enabled and Performance Driven Industry](https://www.liquid-legal-institute.com/workinggroups/liquid-legal-transforming-legal-into-a-business-savvy-information-enabled-and-performance-driven-industry) (Kai Jacob, Dierk Schindler, Roger Strathausen, ed., Springer 2017).  Foundational essays; very forward thinking.
+
+- Book (Compendium): [Liquid Legal: Towards a Common Legal Platform](https://www.liquid-legal-institute.com/workinggroups/lli-book-clp/) (Kai Jacob, Dierk Schindler, Roger Strathausen, ed., Springer 2020). From Richard Susskind’s foreword: “A strikingly diverse collection … something for everyone in the law …”  Coherently tied together by the authors, with a “running and important theme – the idea of designing and building a common legal platform, a shared resource that could help avoid the reinvention of the wheel  that takes place globally at a regrettable scale.” 
+
 * [Legal Business Development](#legal-business-development)
 * [Humanization, Diversity and Well-being](#humanization-diversity-and-well-being)
 * [Legal Design and Innovation](#legal-design-and-innovation)
@@ -32,13 +41,13 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Introduction to Legal Transformation
 [Back to Top](#contents)
 
-- Book: Tomorrow’s Lawyers: An Introduction to Your Future, 2nd ed. [Prof. Richard Susskind](https://www.susskind.com), OBE FRSE RSA (Oxford, Strathclyde, Gresham), Oxford Univ. Press, 2016. Prof. Susskind is IT Advisor to Lord Chief Justice of England & Wales, President of the Society of Computers & Law and the leading, most cited commentator on future of legal profession.  Very powerful, easy to read critique of traditional law firm, law school and bar association orthodoxy in US and UK. Applicable to other legal systems and cultures; widely translated. Iconoclastic, thought-provoking, yet hopeful.
-
 ## Legal Business Development
 [Back to Top](#contents)
 
 ## Humanization, Diversity and Well-being
 [Back to Top](#contents)
+
+- Book (Compendium): Liquid Legal: Humanization & the Law - A Call to Action in the Digital Age (Kai Jacob, Dierk Schindler, Roger Strathausen, ed.), Springer, expected Sept. 2022). [Insert description; same editors as LL1 and LL2?]
 
 ## Legal Design and Innovation
 [Back to Top](#contents)
@@ -62,6 +71,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Artificial Intelligence and Legal Text Analytics
 [Back to Top](#contents)
+
+- Directory: [Liquid Legal Institute's Legal Text Analytics Open-Source Resources Page](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics)
 
 ## Computational Law, Blockchain / DLL and Smart(er) Contracts
 [Back to Top](#contents)
