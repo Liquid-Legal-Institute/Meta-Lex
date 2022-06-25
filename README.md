@@ -29,12 +29,14 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Web 3.0 / Metaverse and other Emerging Technologies](#web-30--metaverse-and-other-emerging-technologies)
 * [Credits](#credits)
 
-## Introduction to Legal Transformation
+## Introduction to Legal Transformation - A Profession and Industry in Need of Change
 [Back to Top](#contents)
 
 - **Book**: [Tomorrow’s Lawyers: An Introduction to Your Future, 2nd ed.](https://www.amazon.co.uk/dp/0198796633/ref=sr_1_2?ie=UTF8&qid=1496314861&sr=8-2&keywords=susskind) (Prof. [Richard Susskind](https://www.susskind.com), OBE FRSE RSA (Oxford, Strathclyde, Gresham), Oxford Univ. Press, 2016). Prof. Susskind is IT Advisor to Lord Chief Justice of England & Wales, President of the Society of Computers & Law and the leading, most cited commentator on future of legal profession.  Very powerful, easy to read critique of traditional law firm, law school and bar association orthodoxy in US and UK. Applicable to other legal systems and cultures; widely translated. Iconoclastic, thought-provoking, yet hopeful.
 
 - **Book**: [The Future of the Professions: How Technology Will Transform the World of Human Experts](https://www.amazon.co.uk/Future-Professions-Technology-Transform-Experts-dp-0198841892/dp/0198841892/ref=dp_ob_title_bk). (Profs. [Richard Susskind](https://www.susskind.com) and [Daniel Susskind](https://www.danielsusskind.com), Oxford Univ. Press, 2016; updated ed. April 2022).  Exactly as the title says; highly acclaimed work.  Slower, harder read than Tomorrow’s Lawyers, but time well spent.  2022 edition is updated for changes over past 6 years, included as accelerated by Covid. Tip: If you have read the original edition, purchase the Kindle version (USD7.99) for the outstanding 2002 update.
+
+[Add: Several Access to Justice / "people law" sources. Or create separately category.]
 
 - **Book (Compendium)**: [Liquid Legal: Transforming Legal into a Business Savvy, Information Enabled and Performance Driven Industry](https://www.liquid-legal-institute.com/workinggroups/liquid-legal-transforming-legal-into-a-business-savvy-information-enabled-and-performance-driven-industry) (Kai Jacob, Dierk Schindler, Roger Strathausen, ed., Springer 2017).  Foundational essays; very forward thinking.
 
@@ -44,9 +46,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 - **Book**: [Building an Outstanding Legal Team](https://www.globelawandbusiness.com/books/building-an-outstanding-legal-team-battle-tested-strategies-from-a-general-counsel) (Bjarne P. Tellmann, Globe Law and Business, 2017). [add description]
 
-- **Articles**: [“Don’t Let the Digital Tail Wag the Transformation Dog: A Digital Transformation Roadmap for Corporate Counsel”](http://dx.doi.org/10.2139/ssrn.4021593) (Michele DeStefano,Bjarne P. Tellmann and Daniel Wu, 6 February 2022; last updated 23 May 2022, University of Miami Legal Studies Research Paper No 4021593.  Soon to be published in 
-
-**N.B.**: An excellent précis to this 61 page article is A Gillespie, “Q. What is digital transformation? A primer for legal professionals”, Legal Evolution (2 March 2022). 
+- **Articles**: [“Don’t Let the Digital Tail Wag the Transformation Dog: A Digital Transformation Roadmap for Corporate Counsel”](http://dx.doi.org/10.2139/ssrn.4021593) (Michele DeStefano, Bjarne P. Tellmann and Daniel Wu, 6 February 2022; last updated 23 May 2022, University of Miami Legal Studies Research Paper No 4021593).  Soon to be published in the [Journal of Business and Technology Law](https://digitalcommons.law.umaryland.edu/jbtl). The typical multinational corporation's internal legal department follows a Three-Phased Digital Maturity Framework. This has initial appeal, but the authors argue that it is suboptimal because it focuses more on technology at the expense of foundational, non-technology changes that are critical if the digital technology changes are to be successful and add full ROI. Their preferred approach focuses first on reviewing and optimizing the service delivery model and its related processes. With examples, they maintain that the most successful digital transformations have followed the latter approach. **Nota Bene**: An excellent précis to this 61 page article is [Anusia Gillespie, “Q. What is digital transformation? A primer for legal professionals”](https://www.legalevolution.org/2022/03/q-what-is-digital-transformation-a-primer-for-legal-professionals-289/) (Legal Evolution, 2 March 2022). 
 
 ## Legal Business Development
 [Back to Top](#contents)
