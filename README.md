@@ -42,6 +42,12 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 - **Book**: [Successful Digital Transformation in Law Firms: A Question of Culture](https://www.globelawandbusiness.com/books/successful-digital-transformation-in-law-firms-a-question-of-culture). (Isabel Parker, Globe Law and Business, 2021). Well written, edited and laid out as a pure visual and production matter, well documented by endnotes. Most of all, is well supported on all key points by case studies and interviews. The author’s approach is fair and balanced; she recognizes both the undeniable strengths and current limitations of the traditional law firm model in today's rapidly transforming world. She offers several plausible paths that firms can take to rise to the challenge and earnestly commit to putting client service first in today's digital world.  All while being keenly realistic about the likely challenges to be faced and difficult choices to be made. **The extensive treatment of law firm "purpose" and by extension, that of all legal professionals is singular and should inform all professionals as they adapt to the digital age.** Many insights are also readily transferable to in-house with little or no adaptation, whether in informing transformation agenda or in selecting and instructing law firms.
 
+- **Book**: [Building an Outstanding Legal Team](https://www.globelawandbusiness.com/books/building-an-outstanding-legal-team-battle-tested-strategies-from-a-general-counsel) (Bjarne P. Tellmann, Globe Law and Business, 2017). [add description]
+
+- **Articles**: [“Don’t Let the Digital Tail Wag the Transformation Dog: A Digital Transformation Roadmap for Corporate Counsel”](http://dx.doi.org/10.2139/ssrn.4021593) (Michele DeStefano,Bjarne P. Tellmann and Daniel Wu, 6 February 2022; last updated 23 May 2022, University of Miami Legal Studies Research Paper No 4021593.  Soon to be published in 
+
+**N.B.**: An excellent précis to this 61 page article is A Gillespie, “Q. What is digital transformation? A primer for legal professionals”, Legal Evolution (2 March 2022). 
+
 ## Legal Business Development
 [Back to Top](#contents)
 
