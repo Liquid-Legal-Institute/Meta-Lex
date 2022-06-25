@@ -5,7 +5,7 @@
 
 Meta-Lex is a curated list maintained by the Liquid Legal Institute. Its modest goal is to help all people who are interested in the transformation / innovation of the legal profession and industry, regardless of stage on their journey: beginners, more advanced innovators, professionals, researchers. _With your contributions and suggestions, it will become the premier global reference hub for the legal trans(formation)-curious._
 
-Find more information at the LLI project webpage on [Meta-Lex: The Ultimate Legal Transformation Resource Library](https://www.liquid-legal-institute.com/workinggroups/meta-lex-the-ultimate-legal-transformation-resource-library/)
+Find more information at the LLI project webpage on [Meta-Lex: The Ultimate Legal Transformation Resource Library](https://www.liquid-legal-institute.com/workinggroups/meta-lex-the-ultimate-legal-transformation-resource-library/).
 
 <p align="center">
   <img src="LLI Meta-Lex Hi-Res.jpg">
