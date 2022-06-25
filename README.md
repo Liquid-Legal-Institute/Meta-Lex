@@ -11,7 +11,7 @@ Find more information at the LLI project webpage on [Meta-Lex: The Ultimate Lega
   <img src="LLI Meta-Lex Hi-Res.jpg">
 </p>
 
-_Please read the [contribution guidelines](contributing.md) before contributing. Please add a resource by raising a [pull request](https://github.com/Liquid-Legal-Institute/meta-lex/pulls). We also solicit discussion and proposal of new ideas (including additional content sections) as [issues](https://github.com/Liquid-Legal-Institute/meta-lex/issues)._  _While Meta-Lex's preferred style convention should be evident from the existing entries, a style guidline is available upon request._
+_Please read the [contribution guidelines](contributing.md) before contributing. Please add a resource by raising a [pull request](https://github.com/Liquid-Legal-Institute/meta-lex/pulls). We also solicit discussion and proposal of new ideas (including additional content sections) as [issues](https://github.com/Liquid-Legal-Institute/meta-lex/issues)._  _While Meta-Lex's preferred style convention should be evident from the existing entries, the [contribution guidelines](contributing.md) include Meta-Lex's preferred Architecture and Style Sheet._ 
 
 ## Contents
 
