@@ -33,7 +33,7 @@ Sometimes, a maintainer of an awesome list will ask you to edit your Pull Reques
 **Credits**
 These contributing guidelines are taken from [awesome's contributing guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md)
 
-## Meta-Lex Architecture & Syle Sheet
+## Meta-Lex Architecture & Style Sheet
 
 1. **Priortization**: Being _user-centric_, we order the resources based on the learning curve of likely Meta-Lex users, starting with what’s most approachable and foundational to any learner. 
 
