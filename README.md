@@ -49,7 +49,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 - **Book**: [Legal Upheaval - A Guide to Creativity, Collaboration, and Innovation in Law](https://www.amazon.com/Legal-Upheaval-Creativity-Collaboration-Innovation-dp-1641051205/dp/1641051205/ref=mt_other?_encoding=UTF8&me=&qid=) (Prof. [Michele DeStefano](https://www.linkedin.com/in/michelemdestefano), Am. Bar Assoc., 2008). [to complete] 
 
-- **Book (Compendium)**: [New Suits: Appetite for Disruption in the Legal World](https://www.amazon.com/New-Suits-Appetite-Disruption-Version-ebook/dp/B07RVMW9H2) (Prof. [Michele DeStefano](https://www.linkedin.com/in/michelemdestefano) and [Dr. Günther Dobrauz](https://www.linkedin.com/in/dobrauz), Stämpfli Verlag AG, Bern, 2019).  Rich collection of essays by leading thinkers, including Prof. DeStefano (Univ. of Miami Law and Harvard Law adjunct) and Prof. [David Wilkins](https://www.linkedin.com/in/david-wilkins-96b64410) (Harvard), [Noah Waisberg]((https://www.linkedin.com/in/noahwaisberg) (see his AI book below), the co-founders of the Bryter leading no-code automation tool, others [add]). 
+- **Book (Compendium)**: [New Suits: Appetite for Disruption in the Legal World](https://www.amazon.com/New-Suits-Appetite-Disruption-Version-ebook/dp/B07RVMW9H2) (Prof. [Michele DeStefano](https://www.linkedin.com/in/michelemdestefano) and [Dr. Günther Dobrauz](https://www.linkedin.com/in/dobrauz), Stämpfli Verlag AG, Bern, 2019).  Rich collection of essays by leading thinkers, including Prof. DeStefano (Univ. of Miami Law and Harvard Law adjunct) and Prof. [David Wilkins](https://www.linkedin.com/in/david-wilkins-96b64410) (Harvard), [Noah Waisberg](https://www.linkedin.com/in/noahwaisberg) (see his AI book below), the co-founders of the Bryter leading no-code automation tool, others [add]). 
 
 **Access to Justice / People Law** [to be added]
 
@@ -79,7 +79,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Humanization, Diversity and Well-being
 [Back to Top](#contents)
 
-- **Book (Compendium)**: Liquid Legal: Humanization & the Law - A Call to Action in the Digital Age (Kai Jacob, Dierk Schindler, Roger Strathausen, ed.), Springer, expected Sept. 2022). [Insert description; same editors as LL1 and LL2?]
+- **Book (Compendium)**: Liquid Legal: Humanization & the Law - A Call to Action in the Digital Age ([Kai Jacob](https://www.linkedin.com/in/kaijacob), [Dierk Schindler](https://www.linkedin.com/in/dr-dierk-schindler-6a61b510), [Roger Strathausen](https://www.linkedin.com/in/roger-strathausen-ph-d-47561b8), eds.), Springer, expected Sept. 2022). [Insert description; same editors as LL1 and LL2?]
 
 - **Papers**: [LLI Lawyer Well-Being Project - The Silent Pandemic](https://www.liquid-legal-institute.com/workinggroups/lawyer-wellbeing) (Call to Action and Survey Results); [Whitepaper: Lawyer Well-Being | Personal Health of Legal Professionals in Times of Disruption](https://www.liquid-legal-institute.com/wp-content/uploads/2022/05/LLI_Lawyer_Wellbeing_Whitepaper_E-Book.pdf). [Add: link to recording of 23 June 2022 Liquid Experience call; LLI Awards?]
 
