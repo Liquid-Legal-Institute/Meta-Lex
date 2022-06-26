@@ -3,7 +3,9 @@
 [![LTA](https://img.shields.io/badge/CLP-Community-orange)](https://github.com/Liquid-Legal-Institute/Common-Legal-Platform)
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-Meta-Lex is a curated list maintained by the Liquid Legal Institute. Its modest goal is to help all people who are interested in the transformation / innovation of the legal profession and industry, regardless of stage on their journey: beginners, more advanced innovators, professionals, researchers. _With your contributions and suggestions, it will become the premier global reference hub for the legal trans(formation)-curious._
+Meta-Lex is a curated list maintained by the Liquid Legal Institute. Its modest goal is to help all people who are interested in the transformation / innovation of the legal profession and industry, regardless of stage on their journey: beginners, more advanced innovators, professionals, researchers. 
+
+_With your suggestions and content contributions, Meta-Lex will become the premier global reference hub for the legal trans(formation)-curious._
 
 Find more information at the LLI project webpage on [Meta-Lex: The Ultimate Legal Transformation Resource Library](https://www.liquid-legal-institute.com/workinggroups/meta-lex-the-ultimate-legal-transformation-resource-library/).
 
@@ -32,21 +34,29 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Introduction to Legal Transformation - A Profession and Industry in Need of Change
 [Back to Top](#contents)
 
+**Foundational Thinking**
+
 - **Book**: [Tomorrow’s Lawyers: An Introduction to Your Future, 2nd ed.](https://www.amazon.co.uk/dp/0198796633/ref=sr_1_2?ie=UTF8&qid=1496314861&sr=8-2&keywords=susskind) (Prof. [Richard Susskind](https://www.susskind.com), OBE FRSE RSA (Oxford, Strathclyde, Gresham), Oxford Univ. Press, 2016). Prof. Susskind is IT Advisor to Lord Chief Justice of England & Wales, President of the Society of Computers & Law and the leading, most cited commentator on future of legal profession.  Very powerful, easy to read critique of traditional law firm, law school and bar association orthodoxy in US and UK. Applicable to other legal systems and cultures; widely translated. Iconoclastic, thought-provoking, yet hopeful.
 
 - **Book**: [The Future of the Professions: How Technology Will Transform the World of Human Experts](https://www.amazon.co.uk/Future-Professions-Technology-Transform-Experts-dp-0198841892/dp/0198841892/ref=dp_ob_title_bk). (Profs. [Richard Susskind](https://www.susskind.com) and [Daniel Susskind](https://www.danielsusskind.com), Oxford Univ. Press, 2016; updated ed. April 2022).  Exactly as the title says; highly acclaimed work.  Slower, harder read than Tomorrow’s Lawyers, but time well spent.  2022 edition is updated for changes over past 6 years, included as accelerated by Covid. Tip: If you have read the original edition, purchase the Kindle version (USD7.99) for the outstanding 2002 update.
 
-[Add: Several Access to Justice / "people law" sources. Or create separately category.]
-
 - **Book (Compendium)**: [Liquid Legal: Transforming Legal into a Business Savvy, Information Enabled and Performance Driven Industry](https://www.liquid-legal-institute.com/workinggroups/liquid-legal-transforming-legal-into-a-business-savvy-information-enabled-and-performance-driven-industry) (Kai Jacob, Dierk Schindler, Roger Strathausen, ed., Springer 2017).  Foundational essays; very forward thinking.
 
 - **Book (Compendium)**: [Liquid Legal: Towards a Common Legal Platform](https://www.liquid-legal-institute.com/workinggroups/lli-book-clp/) (Kai Jacob, Dierk Schindler, Roger Strathausen, ed., Springer 2020). From Richard Susskind’s foreword: “A strikingly diverse collection … something for everyone in the law …”  Coherently tied together by the authors, with a “running and important theme – the idea of designing and building a common legal platform, a shared resource that could help avoid the reinvention of the wheel  that takes place globally at a regrettable scale.” 
+
+- **Book (Compendium)**: [Legal Informatics](https://www.cambridge.org/core/books/abs/legal-informatics/legal-informatics/AAC418F8A016881BC74FED88B5D85B57). (Dan Katz, Ron Dolin, Michael Bommarito, ed., Cambridge Univ. Press, 2021).  A first-of kind overview of legal informatics - the academic discipline underlying the technological transformation and the economic underpinnings of the legal industry. Over two dozen essays and with real-life case studies. Approachable by non-technical readers.  Richard Susskind called it a “treasure trove” and the “definitive text” for legal informatics. Prof. David Wilkins (Harvard Law School CLP): “This is not just a book. It is a movement.”
+
+**Access to Justice / People Law** [to be added]
+
+**Transformation & Innovation Guides - Law Firms & Legal Functions**
 
 - **Book**: [Successful Digital Transformation in Law Firms: A Question of Culture](https://www.globelawandbusiness.com/books/successful-digital-transformation-in-law-firms-a-question-of-culture). (Isabel Parker, Globe Law and Business, 2021). Well written, edited and laid out as a pure visual and production matter, well documented by endnotes. Most of all, is well supported on all key points by case studies and interviews. The author’s approach is fair and balanced; she recognizes both the undeniable strengths and current limitations of the traditional law firm model in today's rapidly transforming world. She offers several plausible paths that firms can take to rise to the challenge and earnestly commit to putting client service first in today's digital world.  All while being keenly realistic about the likely challenges to be faced and difficult choices to be made. **The extensive treatment of law firm "purpose" and by extension, that of all legal professionals is singular and should inform all professionals as they adapt to the digital age.** Many insights are also readily transferable to in-house with little or no adaptation, whether in informing transformation agenda or in selecting and instructing law firms.
 
 - **Book**: [Building an Outstanding Legal Team](https://www.globelawandbusiness.com/books/building-an-outstanding-legal-team-battle-tested-strategies-from-a-general-counsel) (Bjarne P. Tellmann, Globe Law and Business, 2017). [add description]
 
 - **Articles**: [“Don’t Let the Digital Tail Wag the Transformation Dog: A Digital Transformation Roadmap for Corporate Counsel”](http://dx.doi.org/10.2139/ssrn.4021593) (Michele DeStefano, Bjarne P. Tellmann and Daniel Wu, 6 February 2022; last updated 23 May 2022, University of Miami Legal Studies Research Paper No 4021593).  Soon to be published in the [Journal of Business and Technology Law](https://digitalcommons.law.umaryland.edu/jbtl). The typical multinational corporation's internal legal department follows a Three-Phased Digital Maturity Framework. This has initial appeal, but the authors argue that it is suboptimal because it focuses more on technology at the expense of foundational, non-technology changes that are critical if the digital technology changes are to be successful and add full ROI. Their preferred approach focuses first on reviewing and optimizing the service delivery model and its related processes. With examples, they maintain that the most successful digital transformations have followed the latter approach. **Nota Bene**: An excellent précis to this 61 page article is [Anusia Gillespie, “Q. What is digital transformation? A primer for legal professionals”](https://www.legalevolution.org/2022/03/q-what-is-digital-transformation-a-primer-for-legal-professionals-289/) (Legal Evolution, 2 March 2022). 
+
+- **Book**: [The Simple Guide to Legal Innovation: Basics Every Lawyer Should Know](https://www.amazon.com/gp/product/1641055871/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1). (Lucie Bassli, Am. Bar Assoc., 2020). Primer; bite-sized lessons; relatively quick read; everything the title promises. Author was 13 yrs in Microsoft in-house legal. Spoiler alert: Innovation does not always require expensive shiny new toys.  Innovation is something that we do and become, not purchase.
 
 ## Legal Business Development
 [Back to Top](#contents)
@@ -84,10 +94,15 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Artificial Intelligence and Legal Text Analytics
 [Back to Top](#contents)
 
-- Directory: [Liquid Legal Institute's Legal Text Analytics Open-Source Resources Page](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics)
+- **Directory**: [Liquid Legal Institute's Legal Text Analytics Open-Source Resources Page](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics)
+- **Book**: [AI For Lawyers: How Artificial Intelligence is Adding Value, Amplifying Expertise, and Transforming Careers](https://www.amazon.com/gp/product/1119723841/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1). (Noah Waisberg, Alexander Hudek; Wiley 2021). A Wall Street Journal bestseller. Non-technical; approachable; quick easy read, by founders of Kira Systems; instant classic.
 
 ## Computational Law, Blockchain / DLL and Smart(er) Contracts
 [Back to Top](#contents)
+
+- **Book (Compendium)**: [Legal Informatics](https://www.cambridge.org/core/books/abs/legal-informatics/legal-informatics/AAC418F8A016881BC74FED88B5D85B57). (Dan Katz, Ron Dolin, Michael Bommarito, ed., Cambridge Univ. Press, 2021).  A first-of kind overview of legal informatics - the academic discipline underlying the technological transformation and the economic underpinnings of the legal industry. Over two dozen essays and with real-life case studies. Approachable by non-technical readers.  Richard Susskind called it a “treasure trove” and the “definitive text” for legal informatics. Prof. David Wilkins (Harvard Law School CLP): “This is not just a book. It is a movement.”
+
+- **Book**: [Legal Data for Banking: Business Optimisation and Regulatory Compliance](https://www.amazon.com/Legal-Data-Banking-Optimisation-Regulatory-ebook/dp/B07R6FQB62/ref=sr_1_1?dchild=1&keywords=Legal+Data+for+Banking+Datoo&qid=1625424853&s=books&sr=1-1). (Akber Datoo, Wiley, 2019). Great primer.  Datoo is a key adviser to ISDA, ISLA and the Law Society of England & Wales and founder of D2 Legal Technology, a consulting firm at the intersection of Reg Tech and FinTech.  Main theme is that since the 2008-9 financial crisis, legal data is at the heart of post-2009 regulatory reform. Complying with the increased regulation involves enormous new amount of data; coping with this volume and using it in meaningful ways require new ways of thinking and doing, including at a contractual level.  “Legal Data Management” means change, both by institutions and lawyers in how they think and work. The author shows the way, which is gaining traction in several key banking and financial services sectors.
 
 ## Web 3.0 / Metaverse and other Emerging Technologies
 [Back to Top](#contents)
