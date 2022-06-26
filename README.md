@@ -117,10 +117,13 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Web 3.0 / Metaverse and other Emerging Technologies
 [Back to Top](#contents)
 
+## [Additional categories to add: vendor / provider / solutions / job search sites (cross-link to [Legal Tech Hub](http://legaltechnologyhub.com/)); educational and training programs - CLPs, Centres on Law & Technology, etc.]
+[Back to Top](#contents)
+
 ## Credits
 [Back to Top](#contents)
 
-See contributors and committers (and many more).
+Project conceived by Sarah Bellum. See contributors and committers (and many more).
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
