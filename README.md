@@ -17,7 +17,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Contents
 
-* [Introduction to Legal Transformation - A Profession and Industry in Need of Change](#introduction-to-legal-transformation)
+* [Introduction to Legal Transformation - A Profession and Industry in Need of Change](#introduction-to-legal-transformation---a-profession-and-industry-in-need-of-change)
 * [Legal Business Development](#legal-business-development)
 * [Humanization, Diversity and Well-being](#humanization-diversity-and-well-being)
 * [Legal Design and Innovation](#legal-design-and-innovation)
@@ -35,7 +35,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Introduction to Legal Transformation - A Profession and Industry in Need of Change
 [Back to Top](#contents)
 
-**Foundational Thinking**
+### Foundational Thinking
 
 - **Book**: [Tomorrow’s Lawyers: An Introduction to Your Future, 2nd ed.](https://www.amazon.co.uk/dp/0198796633/ref=sr_1_2?ie=UTF8&qid=1496314861&sr=8-2&keywords=susskind) (Prof. [Richard Susskind](https://www.susskind.com), OBE FRSE RSA (Oxford, Strathclyde, Gresham), Oxford Univ. Press, 2016). Prof. Susskind is IT Advisor to Lord Chief Justice of England & Wales, President of the [Society of Computers & Law](https://www.scl.org) and the leading, most cited commentator on future of legal profession.  Very powerful, easy to read critique of traditional law firm, law school and bar association orthodoxy in US and UK. Applicable to other legal systems and cultures; widely translated. Iconoclastic, thought-provoking, yet hopeful.
 
@@ -51,11 +51,11 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 - **Book (Compendium)**: [New Suits: Appetite for Disruption in the Legal World](https://www.amazon.com/New-Suits-Appetite-Disruption-Version-ebook/dp/B07RVMW9H2) (Prof. [Michele DeStefano](https://www.linkedin.com/in/michelemdestefano) and [Dr. Günther Dobrauz](https://www.linkedin.com/in/dobrauz), Stämpfli Verlag AG, Bern, 2019).  Rich collection of essays by leading thinkers, including Prof. DeStefano (Univ. of Miami Law and Harvard Law adjunct) and Prof. [David Wilkins](https://www.linkedin.com/in/david-wilkins-96b64410) (Harvard), [Noah Waisberg](https://www.linkedin.com/in/noahwaisberg) (see his AI book below), the co-founders of the Bryter leading no-code automation tool, others [add]). 
 
-**Access to Justice / People Law** [to be added]
+### Access to Justice / People Law [to be added]
 
-**Transformation & Innovation Guides**
+### Transformation & Innovation Guides
  
--**Law Firms & Legal Functions:**
+### Law Firms & Legal Functions
 
 - **Book**: [Successful Digital Transformation in Law Firms: A Question of Culture](https://www.globelawandbusiness.com/books/successful-digital-transformation-in-law-firms-a-question-of-culture) ([Isabel Parker](https://www.linkedin.com/in/isabel-parker-723a2a74), Globe Law and Business, 2021). Well written, edited, laid out and documented by endnotes. Above all, is well supported on all key points by case studies and interviews from both within and outside legal practice. The author’s approach is fair and balanced; she recognizes both the undeniable strengths and current limitations of the traditional law firm model in today's rapidly transforming world. She offers several plausible paths that firms can take to rise to the challenge of putting client service first in today's digital world.  All while being keenly realistic about the likely challenges to be faced and difficult choices to be made. **The extensive treatment of law firm "purpose" and by extension, that of all legal professionals is singular and should inform all professionals as they adapt to the digital age.** Many insights are also readily transferable to in-house with little or no adaptation, whether in informing transformation agendas or in selecting and instructing law firms.
 
@@ -67,7 +67,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 - **Article**: [The (re)making of a modern lawyer – an in-house lawyer’s pandemic reinvention journey](https://www.globelawandbusiness.com/journals/Modern-Lawyer-Journal) ([Robert Dilworth](https://www.linkedin.com/in/robertdilworth), Modern Lawyer, Globe Law and Business, July 2022). A first-person storytelling account of corporate lawyer's road to Damascus journey during the Pandemic lockdowns towards radical acceptance that the profession and industry must urgently change in order to be fit for purpose in a digital age.  Personal reflections, a renewed sense of personal purpose. Recommendations to individual lawyers sharing these inklings, but not knowing how to start, as well as to in-house legal departments and the law firms that serve them. [Note: update hyperlink in July.]
 
--**Practical Applications:**
+### Practical Applications
 
 - **Book**: [The Simple Guide to Legal Innovation: Basics Every Lawyer Should Know](https://www.amazon.com/gp/product/1641055871/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1). ([Lucy Bassli](https://www.linkedin.com/in/lucybassli), Am. Bar Assoc., 2020). Primer; bite-sized lessons; relatively quick read; everything the title promises. Author was 13 yrs in Microsoft in-house legal. Spoiler alert: Innovation does not always require expensive shiny new toys.  Innovation is something that we do and become, not purchase.
 
